@@ -1,5 +1,5 @@
 class Scooter{
-  // scooter code here
+  // code here
 }
 
 
